@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">同聊</string>
+    <string name="app_author">0831专用</string>
+    <string name="login_text">登录</string>
+    <string name="login_tip">请使用你的学号登录，还记得吗？</string>
+    <string name="register_text">注册</string>
+    <string name="register_tip">【仅限0831同学注册】\n初次使用，先完成签到</string>
+    <string name="back_text">返回</string>
+    <string name="login_edittext_hint">学号/姓名</string>
+    <string name="login_password_edittext_hint">密码长度为6-12位</string>
+    <string name="login_forget_password">忘记密码?</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_error_title">登录错误</string>
+    <string name="login_error_message">帐号或者密码不能为空，请输入后再登录</string>
+    <string name="login_faild_title">登录失败</string>
+    <string name="login_faild_message">帐号或者密码不正确，请检查后重新输入</string>
+
+    <string name="main_nav_massage_text">联络</string>
+    <string name="main_nav_contact_text">同学</string>
+    <string name="main_nav_moment_text">动态</string>
+    <string name="main_nav_settings_text">设置</string>
+    <string name="exit_text">退出</string>
+    <string name="exit_confirm_message">退出后，你将收不到新的消\n息.确定要退出？</string>
+    <string name="confirm_yes">是</string>
+    <string name="confirm_no">否</string>
+
+
+</resources>
